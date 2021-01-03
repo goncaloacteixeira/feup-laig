@@ -8,9 +8,9 @@
 
 ## Projects
 
-### [TP1](TP1)
+### [TP1](TP1) - [application](https://skdgt.github.io/feup-laig/TP1/index.html)
 
-### [TP2](TP2)
+### [TP2](TP2) - [application](https://skdgt.github.io/feup-laig/TP2/index.html)
 
-### [TP3](TP3)
+### [TP3](TP3) - [application](https://skdgt.github.io/feup-laig/TP3/index.html)
 
